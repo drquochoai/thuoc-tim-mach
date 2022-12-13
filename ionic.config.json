@@ -1,0 +1,7 @@
+{
+  "name": "Thuốc tim mạch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
